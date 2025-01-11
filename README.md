@@ -1,2 +1,3 @@
 # face-recognizer-with-python.
  In this face recognizer we can run it with python preferably with the name of its file (app.py).
+The first thing is that we are going to execute the pip install cv2 and pip install numpy commands in our terminal, so that our code runs perfectly, after that we execute our file so that a tab appears; where we go to choose the camera that We want either the internal camera of our device or an external one such as a web cam, after that we click on the button that says start and we can see the results that it recognizes the face with a percentage from 0% to 100% depending on the location and angle of our face.
